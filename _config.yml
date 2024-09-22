@@ -1,0 +1,3 @@
+title: "我的电子相册"
+description: "欢迎来到我的电子相册！"
+baseurl: "/photo-album" # 如果仓库名称不是 your_username.github.io，需要设置为仓库名称
